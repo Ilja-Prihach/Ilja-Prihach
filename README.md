@@ -37,6 +37,18 @@
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css,tailwind" alt="TypeScript, React, Next.js, JavaScript, HTML, CSS and Tailwind CSS" />
 </p>
 
+### AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+  <img src="https://img.shields.io/badge/LLM_Pipelines-2563EB?style=flat-square" alt="LLM pipelines" />
+  <img src="https://img.shields.io/badge/Tool_Calling-0F766E?style=flat-square" alt="Tool calling" />
+  <img src="https://img.shields.io/badge/Structured_Outputs-7C3AED?style=flat-square" alt="Structured outputs" />
+  <img src="https://img.shields.io/badge/LLM_Evals-B45309?style=flat-square" alt="LLM evals" />
+  <img src="https://img.shields.io/badge/Whisper_Speech--to--Text-059669?style=flat-square&logo=openai&logoColor=white" alt="Whisper speech-to-text" />
+</p>
+
 ### Backend & data
 
 <p>
