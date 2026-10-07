@@ -27,7 +27,7 @@
 ## Selected work
 
 - **Zabukai** — an AI-assisted booking product with a public booking flow, business dashboard, Telegram scenarios, scheduling, notifications, and automated tests.
-- **Sofia AI** — a learning and CRM platform where I worked on onboarding, authentication, access flows, training progress, interface performance, and product reliability.
+- **Sofia AI** — a large production SaaS ecosystem that brings together learning, assessment, participant management, and internal CRM workflows. I develop end-to-end product features spanning complex interfaces, authentication, access control, integrations, data logic, performance, and automated testing.
 
 ## Technologies
 
