@@ -50,12 +50,9 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" height="48" alt="Playwright" />
 </p>
 
-## GitHub activity
+## Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilja-Prihach&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Ilya's GitHub statistics" />
-  <img src="https://streak-stats.demolab.com?user=Ilja-Prihach&hide_border=true&theme=transparent" height="165" alt="Ilya's GitHub streak" />
-</p>
+Most of my recent work happens in private product repositories.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilja-Prihach/Ilja-Prihach/output/github-contribution-grid-snake-dark.svg" />
