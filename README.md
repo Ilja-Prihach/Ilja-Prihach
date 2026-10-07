@@ -27,7 +27,7 @@
 ## Selected work
 
 - **Zabukai** — an AI-assisted booking product with a public booking flow, business dashboard, Telegram scenarios, scheduling, notifications, and automated tests.
-- **Sofia AI** — a large production SaaS ecosystem that brings together learning, assessment, participant management, and internal CRM workflows. I develop end-to-end product features spanning complex interfaces, authentication, access control, integrations, data logic, performance, and automated testing.
+- **Sofia AI** — an AI-powered career guidance platform for adults and teenagers. It combines structured interviews, psychometric scoring, voice transcription, multi-stage LLM analysis, and personalized Junior, parent, and Pro reports. I work across AI report experiences, Junior assessment flows, generation reliability, access automation, and integrations between the core platform, Hub, and CRM.
 
 ## Technologies
 
