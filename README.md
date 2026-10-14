@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ilya 👋</h1>
 
 <p align="center">
-  <strong>Frontend-focused Full-stack TypeScript Developer</strong>
+  <strong>Frontend-focused Full-stack Developer · AI & Automation</strong>
 </p>
 
 <p align="center">
-  I build polished web interfaces and take product features all the way from UI to production.
+  I build AI-enabled products and automation workflows with TypeScript, React, Next.js, and Node.js — from polished interfaces to LLM pipelines, integrations, and reliable production delivery.
 </p>
 
 <p align="center">
@@ -17,57 +17,50 @@
   </a>
 </p>
 
-## About me
+## What I do
 
-- Building production SaaS products with TypeScript, React, and Next.js.
-- Focused on responsive interfaces, clear product flows, and maintainable frontend architecture.
-- Comfortable taking a feature across the stack when it needs APIs, data, authentication, or integrations.
-- Experienced with booking platforms, CRM and learning systems, and Telegram-connected products.
+- Turn product requirements into complete user flows, from frontend architecture and UX to APIs, authentication, data, and integrations.
+- Integrate AI into real products through multi-stage LLM pipelines, structured outputs, RAG, speech-to-text, tool calling, and evaluation workflows.
+- Automate operations across web applications, Telegram, CRM systems, notifications, and internal services.
 
-## Selected work
+My strongest area is frontend engineering, but I am comfortable owning a feature across the stack when the product needs it. Most of my recent production work lives in private repositories; the public case studies below demonstrate the same architectural and delivery approach.
 
-- **Zabukai** — an AI-assisted booking product with a public booking flow, business dashboard, Telegram scenarios, scheduling, notifications, and automated tests.
-- **Sofia AI** — an AI-powered career guidance platform for adults and teenagers. It combines structured interviews, psychometric scoring, voice transcription, multi-stage LLM analysis, and personalized Junior, parent, and Pro reports. I work across AI report experiences, Junior assessment flows, generation reliability, access automation, and integrations between the core platform, Hub, and CRM.
+## Production work
 
-## Technologies
+### Sofia AI
 
-### Frontend
+An AI-powered career guidance platform for adults and teenagers. It combines structured interviews, psychometric scoring, voice transcription, multi-stage LLM analysis, and personalized Junior, parent, and Pro reports.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css,tailwind" alt="TypeScript, React, Next.js, JavaScript, HTML, CSS and Tailwind CSS" />
-</p>
+My work covers AI report experiences, Junior assessment flows, generation reliability, access automation, and integrations between the core platform, Hub, CRM, and external services.
 
-### AI & Automation
+### Zabukai
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
-  <img src="https://img.shields.io/badge/LLM_Pipelines-2563EB?style=flat-square" alt="LLM pipelines" />
-  <img src="https://img.shields.io/badge/Tool_Calling-0F766E?style=flat-square" alt="Tool calling" />
-  <img src="https://img.shields.io/badge/Structured_Outputs-7C3AED?style=flat-square" alt="Structured outputs" />
-  <img src="https://img.shields.io/badge/LLM_Evals-B45309?style=flat-square" alt="LLM evals" />
-  <img src="https://img.shields.io/badge/Whisper_Speech--to--Text-059669?style=flat-square&logo=openai&logoColor=white" alt="Whisper speech-to-text" />
-</p>
+An AI-assisted booking and business operations product with a public booking journey, business dashboard, scheduling, reminders, notifications, and Telegram-connected scenarios.
 
-### Backend & data
+My work spans customer-facing booking flows, dashboard functionality, automation, service integrations, and end-to-end reliability through integration and browser testing.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" alt="Node.js, PostgreSQL and Supabase" />
-</p>
+## Public case studies
 
-### Testing & tools
+### [AI Support Desk](https://github.com/Ilja-Prihach/ai-support-desk)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vitest,git,github,vscode" alt="Vitest, Git, GitHub and VS Code" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" height="48" alt="Playwright" />
-</p>
+An AI-powered Telegram support desk with real-time collaboration and knowledge-grounded RAG replies. It demonstrates AI orchestration, support automation, operator workflows, and full-stack product delivery.
 
-## Contributions
+### [Social Network Platform](https://github.com/Ilja-Prihach/social-network-platform)
 
-Most of my recent work happens in private product repositories.
+A six-person social platform with two Next.js applications, a BFF layer, GraphQL administration, OAuth, media workflows, real-time notifications, internationalization, and AI-assisted post translation.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilja-Prihach/Ilja-Prihach/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilja-Prihach/Ilja-Prihach/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Ilja-Prihach/Ilja-Prihach/output/github-contribution-grid-snake.svg" />
-</picture>
+I was the principal contributor with **296 of 561 product commits (52.8%)**, owning the monorepo evolution, admin application, GraphQL integration, authentication and BFF flows, profiles, posts, payments, and major architectural refactoring.
+
+## Technology
+
+| Area                      | Technologies                                                                                                    |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Frontend**              | TypeScript, React, Next.js, JavaScript, HTML, CSS, Sass, Tailwind CSS                                           |
+| **AI & automation**       | OpenAI API, Vercel AI SDK, LLM pipelines, RAG, structured outputs, tool calling, speech-to-text, LLM evaluation |
+| **Backend & integration** | Node.js, REST, GraphQL, WebSockets, Telegram API, webhooks                                                      |
+| **Data**                  | PostgreSQL, Supabase                                                                                            |
+| **Quality & delivery**    | Playwright, Vitest, ESLint, Stylelint, Git, GitHub Actions                                                      |
+
+## Let's connect
+
+If you are building an AI-enabled product, automating a complex workflow, or need someone who can own a feature from interface to integration, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ilya-prihach/) or [Telegram](https://t.me/Ilja_prihach).
